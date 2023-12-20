@@ -72,7 +72,7 @@ How the logic of the algorithm changes in order to be parallelized with MPI
 ![Par imp](parallel_img.png)
 
 ## Authors
-Leonardo Ignazio Pagliochini - Francesco Rosnati - Riccardo Selis
+Leonardo Ignazio Pagliochini - Francesco Rosnati
 
 
 
